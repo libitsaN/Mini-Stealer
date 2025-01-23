@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Stealer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Stealer_jar</output-path>
+    <root id="archive" name="Get Information About PC.jar">
+      <element id="module-output" name="Get Information About PC" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../commons-net-3.11.1/commons-net-3.11.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
